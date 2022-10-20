@@ -10,5 +10,4 @@ public class GFG {
     }
 }
 
-// “Estruturas de Dados 2” é impresso apenas n vezes na tela, pq o valor de n pode mudar.Por isso a complexidade do tempo é linear: O(n), ou seja, toda vez,
-uma quantidade linear de tempo é necessária para executar o código.
+// “Estruturas de Dados 2” é impresso apenas n vezes na tela, pq o valor de n pode mudar.Por isso a complexidade do tempo é linear: O(n), ou seja, toda vez, uma quantidade linear de tempo é necessária para executar o código.
